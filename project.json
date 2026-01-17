@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-ausacuy4"",
-  ""goal"": ""index builder for content moderation"",
-  ""language"": ""node"",
-  ""template"": ""node-api""
+    "name":  "specproj-ausacuy4",
+    "goal":  "index builder for content moderation",
+    "language":  "node",
+    "template":  "node-api"
 }
